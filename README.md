@@ -1,0 +1,2 @@
+# SharedDetails
+test project
